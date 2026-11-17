@@ -39,7 +39,7 @@ This breaks the interaction checks that depend on `DWVView`.
 
 ## Installation
 
-1. Download this repository as a ZIP archive.
+1. Download the latest release ZIP archive, or download this repository as a ZIP archive.
 2. Extract the mod folder into your Project Zomboid `mods` directory (e.g. `C:\Users\YourUserName\Zomboid\mods`).
 3. Enable the shim in the in-game Mods menu.
 
