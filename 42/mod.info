@@ -1,0 +1,6 @@
+name=Nomad RV Viewpoint Shim
+id=GridRVShim
+author=Reven
+modversion=1.1
+description=Restores the Nomad RV driver seat, door and E-key interactions that DeadWorks Vehicle Framework 1.0.4 loses on Viewpoint 0.1.7. Calls only DWVF's own exposed API.
+require=\DeadWorksNomadRV,\DeadWorksVehicleFramework,\Viewpoint
